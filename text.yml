@@ -1,0 +1,11 @@
+start: |
+  Hola! Mi nombre es DailyScrumBot y mi objetivo es hacer daily scrum en un chat de Telegram.
+
+  Primero necesito saber a que hora prefieren que les recuerde acerca del daily scrum
+
+  Contesta a este mensaje con la hora que prefieras.
+
+done: Qué hice ayer?
+todo: Qué haré hoy?
+obstacles: Qué me impidió avanzar más?
+adjust: Contesta a este mensaje con la nueva hora del recordatorio
